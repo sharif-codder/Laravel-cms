@@ -1,0 +1,11 @@
+#admin-page {
+  padding-top: 0px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.comment-reply {
+  display: none;
+}
